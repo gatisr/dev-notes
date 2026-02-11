@@ -1,10 +1,8 @@
 ---
 layout: default
 title: pnpm Vulnerabilities
-nav_order: 2
+parent: Development
 ---
-
-# Fixing Vulnerable Packages with pnpm
 
 ## 1. Direct Dependencies (Project Packages)
 

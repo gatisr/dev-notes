@@ -5,3 +5,4 @@ description: Technical notes and tutorials
 
 color_scheme: dark
 search_enabled: true
+footer_content: "Made by <a href='https://github.com/gatisr'>@gatisr</a>"
