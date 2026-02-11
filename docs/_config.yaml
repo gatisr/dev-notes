@@ -1,4 +1,7 @@
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 title: Dev Notes
 description: Technical notes and tutorials
 
+
+color_scheme: dark
+search_enabled: true
