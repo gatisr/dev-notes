@@ -58,6 +58,7 @@ When a vulnerable package is a dependency of your dependency, use overrides:
   ```
 
   If vulnerability returns → restore override and keep it
+  
   If clean → you're done
 
 ## Checking Vulnerabilities
