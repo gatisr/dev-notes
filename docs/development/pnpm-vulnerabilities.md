@@ -2,6 +2,7 @@
 layout: default
 title: pnpm Vulnerabilities
 parent: Development
+last_modified_date: 12.02.2026 10:00
 ---
 
 ## 1. Direct Dependencies (Project Packages)

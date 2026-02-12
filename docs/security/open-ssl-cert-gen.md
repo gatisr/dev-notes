@@ -2,6 +2,7 @@
 layout: default
 title: OpenSSL Certificate Generation
 parent: Security
+last_modified_date: 12.02.2026 10:00
 ---
 
 Generate self-signed certificate with extended key usage:

@@ -2,6 +2,7 @@
 layout: default
 title: Git Merge Workflow
 parent: DevOps
+last_modified_date: 12.02.2026 10:00
 ---
 
 Fast-forward merge ensures clean linear history without merge commits:

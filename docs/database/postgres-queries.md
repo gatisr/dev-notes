@@ -1,7 +1,8 @@
 ---
 layout: default
-title: OpenSSL Certificate Generation
+title: PostgreSQL Function/Procedure Queries
 parent: Database
+last_modified_date: 12.02.2026 10:00
 ---
 
 ## Find Function Source by Name

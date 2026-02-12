@@ -2,6 +2,7 @@
 layout: default
 title: Helm Linting
 parent: DevOps
+last_modified_date: 12.02.2026 10:00
 ---
 
 Lint charts locally without installing Helm:

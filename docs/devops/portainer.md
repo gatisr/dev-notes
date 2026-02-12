@@ -2,6 +2,7 @@
 layout: default
 title: OpenSSL Certificate Generation
 parent: DevOps
+last_modified_date: 12.02.2026 10:00
 ---
 
 ## Testing Stack with Secrets

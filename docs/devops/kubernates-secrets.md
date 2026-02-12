@@ -2,6 +2,7 @@
 layout: default
 title: Kubernetes Secrets
 parent: DevOps
+last_modified_date: 12.02.2026 10:00
 ---
 
 ## Adding Secrets via UI
