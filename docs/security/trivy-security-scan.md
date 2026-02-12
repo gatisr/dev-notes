@@ -2,7 +2,7 @@
 layout: default
 title: Trivy Security Scanning
 parent: Security
-last_modified_date: 12.02.2026 10:00
+last_modified_date: 10:00 12.02.2026
 ---
 
 ## Filesystem Scan

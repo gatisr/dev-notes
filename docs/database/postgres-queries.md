@@ -2,7 +2,7 @@
 layout: default
 title: PostgreSQL Function/Procedure Queries
 parent: Database
-last_modified_date: 12.02.2026 10:00
+last_modified_date: 10:00 12.02.2026
 ---
 
 ## Find Function Source by Name
