@@ -32,7 +32,7 @@ GitHub: [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock
 Searches for a given username across hundreds of social media platforms and websites to check availability and profiles.
 
 ```bash
-docker run --rm -it theyahya/sherlock username
+docker run --rm -it sherlock/sherlock username
 ```
 
 ## Maigret - Username Search with Web UI
