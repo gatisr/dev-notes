@@ -14,8 +14,7 @@ Tool for gathering intelligence on phone numbers, including carrier info, locati
 ### Web UI
 
 ```bash
-docker run --rm -it -p 8080:8080 \
-  sundowndev/phoneinfoga serve -p 8080
+docker run --rm -it -p 8080:8080 sundowndev/phoneinfoga serve -p 8080
 ```
 
 Access at <http://localhost:8080>
@@ -43,10 +42,7 @@ GitHub: [soxoj/maigret](https://github.com/soxoj/maigret)
 Advanced username search tool that collects detailed reports from various sites, with optional web interface for viewing results.
 
 ```bash
-docker run -p 5000:5000 \
-  -v ./reports:/app/reports \
-  soxoj/maigret:latest \
-  maigret --web 5000
+docker run -p 5000:5000 -v ./reports:/app/reports soxoj/maigret:latest maigret --web 5000
 ```
 
 Access at <http://localhost:5000>
