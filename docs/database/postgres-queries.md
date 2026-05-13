@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PostgreSQL Function/Procedure Queries
+title: PostgreSQL Queries
 parent: Database
 last_modified_date: 10:00 12.02.2026
 ---
